@@ -1,7 +1,6 @@
 import { Button, Container, Grid, Typography } from '@mui/material';
 import React from 'react';
 import Image from 'next/image';
-import { url } from 'inspector';
 
 const Hero = () => {
   return (
